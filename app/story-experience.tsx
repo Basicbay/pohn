@@ -98,7 +98,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "✨",
-    duration: 16000,
+    duration: 18000,
   },
   {
     no: "02",
@@ -124,7 +124,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "🦋",
-    duration: 16000,
+    duration: 18000,
   },
   {
     no: "03",
@@ -164,7 +164,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "✦",
-    duration: 11000,
+    duration: 18000,
   },
   {
     no: "04",
@@ -189,7 +189,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "∞",
-    duration: 9500,
+    duration: 18000,
   },
   {
     no: "05",
@@ -223,7 +223,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "🐰",
-    duration: 16000,
+    duration: 18000,
   },
   {
     no: "06",
@@ -248,7 +248,7 @@ const chapters: Chapter[] = [
       },
     ],
     emoji: "✺",
-    duration: 11000,
+    duration: 18000,
   },
   {
     no: "07",
@@ -256,7 +256,7 @@ const chapters: Chapter[] = [
     title: "ขอโทษนะครับ…",
     text: "รู้ว่าทำให้ผิดหวัง รู้ว่าทำให้เสียใจ และไม่ขอแก้ตัวกับสิ่งที่ผิดพลาด แต่สิ่งหนึ่งที่ไม่เคยเปลี่ยน คือความรักที่มีให้เธอ ขอโอกาสให้เราได้พิสูจน์อีกครั้งได้ไหม?",
     emoji: "♥",
-    duration: 15000,
+    duration: 18000,
     ...finalApology,
     final: true,
   },
